@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right, rgb(82, 93, 99) , rgb(226, 160, 235))
+  }
+  #result{
+    width: 150px;
+    height: 150px;
+    border-radius: 4px;
+  }
+  .user-wrapper{
+    position: relative;
+    background-color: blueviolet;
+    margin: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: azure;
+  }
+  .add-btn{
+    background: greenyellow ;
+    border: none;
+    width: 20%;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 5px;
+  }
+  .delete {
+    color: white;
+    position:absolute;
+    margin-top:10px ;
+    right: 20px;
+    top: 0px;
+    background: rgb(255, 0, 149);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  input{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(20, 255, 235);
+    border-radius: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  label{
+    color:rgb(247, 161, 2)
+    
+  }
